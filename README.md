@@ -6,7 +6,7 @@
 
 ## 内容
 * GitHubを使用したバージョン管理
-* Dockerを使用した仮想環境開発
+* Ubuntu上でDockerを使用した仮想環境開発
 * Viteを使用した、Vue.js×TypeScript環境を作成
 
 ## 各サービスについて
@@ -28,6 +28,10 @@
 1. リモートリポジトリを作成
    * リポジトリ名はケバブケース
 3. ローカルにクローン
+
+### UbuntuとDockerのインストール
+1. WSL2のインストール
+2. Dockerのインストール
 
 ### Docker
 1. Dockerfileを作成
