@@ -24,14 +24,14 @@
 * モダンな開発環境
 
 ## 手順
+### UbuntuとDockerのインストール
+1. WSL2のインストール
+2. Dockerのインストール
+
 ### GitHub
 1. リモートリポジトリを作成
    * リポジトリ名はケバブケース
 3. ローカルにクローン
-
-### UbuntuとDockerのインストール
-1. WSL2のインストール
-2. Dockerのインストール
 
 ### Docker
 1. Dockerfileを作成
