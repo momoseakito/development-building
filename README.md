@@ -7,7 +7,7 @@
 ## 内容
 * GitHubを使用したバージョン管理
 * Dockerを使用した仮想環境開発
-* Viteを使用した、React×TypeScript環境を作成
+* Viteを使用した、Vue.js×TypeScript環境を作成
 
 ## 各サービスについて
 ### GitHub
